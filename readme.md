@@ -21,6 +21,12 @@ music-player/
 * Responsive meta viewport setup
 * Font Awesome icons via CDN
 
+
+
+[live](https://jishnusmanoj2004-gif.github.io/music-player/)
+
+
+
 ![img](./img.png)
 
 ## 🛠 Technologies Used
